@@ -1,6 +1,6 @@
-## Usage of fertilizers in agricultural needs and their impact on the environment
+# Use of fertilizers for agricultural needs and their impact on the environment
 
-###### The project aims to investigate main trends in usage of agricultural fertilizers and their impact on the environment.
+### The project aims to investigate main trends in usage of agricultural fertilizers and their impact on the environment.
 
 `FertilizersStatistics.ipynb` reports about:
 - **fertilizers indicators** for different regions (Africa, Americas, Europe, Oceania and Asia) summed over the 
